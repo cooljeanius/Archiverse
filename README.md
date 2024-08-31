@@ -2,7 +2,7 @@
 
 ### Your guide into Archive Team's grab of Miiverse
 
-View the website at [archiverse.guide](https://archiverse.guide)
+View the website at [archiverse.app](https://archiverse.app/)
 
 ## About Archiverse
 
