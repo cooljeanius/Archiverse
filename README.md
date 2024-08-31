@@ -2,7 +2,7 @@
 
 ### Your guide into Archive Team's grab of Miiverse
 
-View the website at [archiverse.app](https://archiverse.app/)
+View the website at [archiverse.app](https://archiverse.app/), whose sources are now found at [kyle1373/archiverse](https://github.com/kyle1373/archiverse)
 
 ## About Archiverse
 
