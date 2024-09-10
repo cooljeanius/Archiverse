@@ -36,7 +36,7 @@
     "ts-loader": "7.0.3",
     "ts-nameof": "4.2.2",
     "ts-nameof-loader": "1.0.2",
-    "typescript": "3.8.3",
+    "typescript": "5.6.2",
     "url-loader": "4.1.0",
     "webpack": "5.94.0",
     "webpack-cli": "^5.1.4",
