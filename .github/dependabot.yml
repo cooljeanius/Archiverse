@@ -9,4 +9,30 @@ updates:
   - package-ecosystem: "npm"  # See docs for possible values
     directory: "/Miiworse"  # Location of package manifests
     schedule:
-      interval: "weekly"
+      interval: "monthly"
+    labels:
+      - enhancement
+    groups:
+      npm:
+        patterns:
+          - "*"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    labels:
+      - enhancement
+    groups:
+      actions:
+        patterns:
+          - "*"
+  - package-ecosystem: nuget
+    directory: "/Miiworse"
+    schedule:
+      interval: monthly
+    labels:
+      - enhancement
+    groups:
+      nuget:
+        patterns:
+          - "*"
