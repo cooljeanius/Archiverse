@@ -31,7 +31,7 @@
     "react-hot-loader": "4.12.21",
     "rimraf": "3.0.2",
     "sass-loader": "8.0.2",
-    "style-loader": "1.2.1",
+    "style-loader": "4.0.0",
     "terser-webpack-plugin": "3.0.1",
     "ts-loader": "7.0.3",
     "ts-nameof": "4.2.2",
