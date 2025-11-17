@@ -43,6 +43,6 @@ jobs:
       with:
         args: '. --sarif --output results.sarif || echo "something happened"'
     - name: Upload njsscan report
-      uses: github/codeql-action/upload-sarif@v3
+      uses: github/codeql-action/upload-sarif@v4
       with:
         sarif_file: results.sarif
