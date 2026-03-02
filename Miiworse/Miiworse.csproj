@@ -17,7 +17,7 @@
     <ItemGroup>
         <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.23.0" />
         <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="3.1.32" />
-        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.17">
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="10.0.3">
             <PrivateAssets>all</PrivateAssets>
             <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
         </PackageReference>
