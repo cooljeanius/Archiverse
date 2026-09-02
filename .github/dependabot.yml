@@ -16,6 +16,8 @@ updates:
       npm:
         patterns:
           - "*"
+    cooldown:
+      default-days: 7
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
@@ -26,6 +28,8 @@ updates:
       actions:
         patterns:
           - "*"
+    cooldown:
+      default-days: 7
   - package-ecosystem: nuget
     directory: "/Miiworse"
     schedule:
@@ -36,3 +40,5 @@ updates:
       nuget:
         patterns:
           - "*"
+    cooldown:
+      default-days: 7
